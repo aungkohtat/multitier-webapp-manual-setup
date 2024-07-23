@@ -1,0 +1,37 @@
+# Vagrant files
+.vagrant/
+
+# Vagrant box files (if you're storing them locally)
+*.box
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Provisioning-related files that might contain sensitive information
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*.bak
+
+# Dependency directories (if applicable)
+node_modules/
+vendor/
+
+# Build artifacts (if applicable)
+build/
+dist/
+
+# Environment-specific files
+.env

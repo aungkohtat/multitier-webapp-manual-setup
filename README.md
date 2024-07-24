@@ -444,3 +444,9 @@ rm -rf /etc/nginx/sites-enabled/default
 ```
 systemctl restart nginx
 ```
+
+### Browser login 
+http://192.168.56.11
+
+![](./imaes/Screenshot%202024-07-24%20at%202.15.26 PM.png)
+![](./imaes/Screenshot%202024-07-24%20at%202.15.34 PM.png)
